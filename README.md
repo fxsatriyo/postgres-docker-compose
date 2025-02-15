@@ -7,7 +7,7 @@ Postgres data is persisted in postgres-data directory.
 ## Start
 
 ```
-$ docker-compose up
+$ docker compose up
 ```
 
 ## Author
